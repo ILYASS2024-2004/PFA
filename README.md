@@ -8,13 +8,15 @@ Annee Academique : 2026 - 2027
 
 ## Illustrations Principales du Projet
 
-![Apercu General 1](img/1.jpeg)
+## Illustrations Principales du Projet
 
-![Apercu General 2](img/2.jpeg)
+<img src="img/1.jpeg" alt="Aperçu Général 1" width="400">
 
-![Apercu General 3](img/3.jpeg)
+<img src="img/2.jpeg" alt="Aperçu Général 2" width="400">
 
-![Apercu General 3](img/4.webp)
+<img src="img/3.jpeg" alt="Aperçu Général 3" width="400">
+
+<img src="img/4.webp" alt="Aperçu Général 4" width="400">
 
 ---
 
